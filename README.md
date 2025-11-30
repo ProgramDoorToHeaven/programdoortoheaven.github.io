@@ -16,7 +16,7 @@ I am able to time-travel.
 However, only to the future and only at a certain pace.
 That's why I have to carefully prepare my road-map of places and events to visit on my path.
 
-I'm not a full-time writer and my goal is not quantity, but rather quality.
+I'm not a full-time writer (I'm actually not a writer at all) and my goal is not quantity, but rather quality.
 So there might be just a few episodes released per year.
 This also depends on how many other side projects I currently have and how much I enjoy them.
 
