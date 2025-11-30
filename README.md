@@ -9,6 +9,8 @@ Program Door To Heaven - The Taylor Series
 * [Visit the web](https://programdoortoheaven.github.io/DoorToHeaven-TaylorSeries/index.html)
 * [View on GitHub](https://github.com/ProgramDoorToHeaven/DoorToHeaven-TaylorSeries)
 
+--------
+
 Time travel
 -----------
 
