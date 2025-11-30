@@ -12,7 +12,7 @@ Program Door To Heaven - The Taylor Series
 --------
 
 Time travel
------------
+===========
 
 I am able to time-travel.
 However, only to the future and only at a certain pace.
@@ -24,7 +24,7 @@ This also depends on how many other side projects I currently have and how much 
 
 If you enjoy reading and don't want to wait for me to publish another episode, here are some recommendations:
 
-### Harry Potter and the Methods of Rationality
+## Harry Potter and the Methods of Rationality
 by [Eliezer Yudkowsky](https://www.yudkowsky.net/)
 
 is a rationalist fan-fiction of Harry Potter.
@@ -32,7 +32,7 @@ is a rationalist fan-fiction of Harry Potter.
 * [hpmor.com](https://hpmor.com/)
 * [fanfiction.net](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)
 
-#### HP:MOR Comic
+### HP:MOR Comic
 illustrated by Hunternif
 
 is a work-in-progress comic adaptation (by Hunternif) of Harry Potter and the Methods of Rationality (by Eliezer Yudkowsky).
@@ -43,7 +43,7 @@ is a work-in-progress comic adaptation (by Hunternif) of Harry Potter and the Me
 * [namicomi.com](https://namicomi.com/en/title/zh3HjwiC/harry-potter-and-the-methods-of-rationality)
 * [patreon.com/HPMORcomic](https://www.patreon.com/HPMORcomic)
 
-### Three Worlds Collide
+## Three Worlds Collide
 by [Eliezer Yudkowsky](https://www.yudkowsky.net/)
 
 is a short sci-fi story about how much different the thinking and beliefs of others can be.
