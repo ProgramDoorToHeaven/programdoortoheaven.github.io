@@ -36,6 +36,7 @@ is a rationalist fan-fiction of Harry Potter.
 illustrated by Hunternif
 
 is a work-in-progress comic adaptation (by Hunternif) of Harry Potter and the Methods of Rationality (by Eliezer Yudkowsky).
+The comic focuses less on the ideas and more on the story.
 
 * [hpmorcomic.com](https://www.hpmorcomic.com/)
 * [mangadex.org](https://mangadex.org/title/a8bb51ff-fc0f-494f-846d-1b4970aaecf2/harry-potter-and-the-methods-of-rationality)
